@@ -1,2 +1,3 @@
-# bash-aliases
-Just some useful aliases 
+# shell-sweeties
+contains some shell scritps
+will add more soon.m
